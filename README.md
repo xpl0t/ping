@@ -5,6 +5,7 @@ This image is based on ubuntu and has the networking tools...
 * ping
 * curl
 * wget
+* traceroute
 
 ....already installed, so you don't have to. 😉
 
